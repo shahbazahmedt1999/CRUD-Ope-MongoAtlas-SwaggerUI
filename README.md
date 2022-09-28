@@ -58,21 +58,315 @@ Step11: Click on create database option, and create your database with the name 
 
 Step12: Click on Insert Document and add the below JOSON data
 
-#### "_id": "1",
-     "desc":"Software Engineer who can work on enterprise projects using spring boot and mongodb",
-     "Exp" :"1",
-     "Location" : "Hyderabad/Secunderabad, Bangalore/Bengaluru",
-     "Profile" : "developer",
-     "techs" :"[]"
-     
+#### [
+{
 
+"id": "1",
 
+"desc": "Software Engineer who can work on enterprise projects using spring boot and mongodb",
 
+"exp": 1,
 
+"profiles": "developer",
 
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service"
+],
 
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
 
+},
 
+---
 
+{
 
+"id": "2",
 
+"desc": "Senior Software Engineer who expert knowledge in core java and concurrency",
+
+"exp": 5,
+
+"profiles": "Java Developer",
+
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service",
+"Threads"
+],
+
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "3",
+
+"desc": "Associate consultant architecture of software, Agile, Devops",
+
+"exp": 10,
+
+"profiles": "Architech",
+
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service",
+"AWS",
+"Azure",
+"Devops"
+],
+
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "4",
+
+"desc": "Senior Associate consultant for Mumbai Location",
+
+"exp": 15,
+
+"profiles": "Senior Architech",
+
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service",
+"AWS",
+"Azure",
+"Devops"
+],
+
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "5",
+
+"desc": "Microservices developers",
+
+"exp": 7,
+
+"profiles": "Microservices developers",
+
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service"
+],
+
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "6",
+
+"desc": "Java Full Stack Developer",
+
+"exp": 5,
+
+"profiles": Microservices developers",
+
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service",
+"Angular",
+"Spring Security"
+],
+
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "7",
+
+"desc": "Python Developer",
+
+"exp": 4,
+
+"profiles": "Python developers",
+
+"techs": [
+"Python",
+"PyCharm",
+"Github",
+"Data Structure",
+"OPPS",
+"Design Pattern",
+"Linux"
+],
+
+"location": "Gurgaon, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "8",
+
+"desc": "Senior Backend Engineer - Java/J2EE",
+
+"exp": 7,
+
+"profiles": "Senior Backend Engineer - Java/J2EE",
+
+"techs": [
+"Java",
+"J2EE",
+"Github",
+"Data Structure",
+"OPPS",
+"Design Pattern",
+"Linux",
+"JWT"
+],
+
+"location": "Gurgaon, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "9",
+
+"desc": "Senior Java Full Stack Developer",
+
+"exp": 2,
+
+"profiles": "Senior Java Full Stack Developer",
+
+"techs": [
+"Java",
+"J2EE",
+"Github",
+"Data Structure",
+"OPPS",
+"Design Pattern",
+"Linux",
+"JWT",
+"Agile"
+],
+
+"location": "Mumbai, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "10",
+
+"desc": "React Js NodeJs Developer",
+
+"exp": 5,
+
+"profiles": "React Js NodeJs Developerr",
+
+"techs": [
+"Java",
+"REACT",
+"Github",
+"Data Structure",
+"OPPS",
+"Design Pattern",
+"Linux",
+"Nodejs",
+"Agile",
+"Microsoft SQL Server",
+"Mongo"
+],
+
+"location": "Chennai, Bangalore/Bengaluru"
+
+},
+
+---
+
+{
+
+"id": "11",
+
+"desc": "Go Lang Developer",
+
+"exp": 10,
+
+"profiles": "Looking for Go Lang Developer",
+
+"techs": [
+"Go, Python, Ruby"
+],
+
+"location": "Bangalore"
+
+},
+
+---
+
+{
+
+"id": "6333d80bbe342444d5d5ebfa",
+
+"desc": "Software Engineer who can work on enterprise projects using spring boot and mongodb",
+
+"exp": 1,
+
+"profiles": "developer",
+
+"techs": [
+"Java",
+"J2ee",
+"Spring",
+"Spring Boot",
+"Micro service"
+],
+
+"location": "Hyderabad/Secunderabad, Bangalore/Bengaluru"
+
+}
+
+### Finally after developing the project the Swagger Ui looks like below.
+
+![img.png](img.png)
+
+Thanks
